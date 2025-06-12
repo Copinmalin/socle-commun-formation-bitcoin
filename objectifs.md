@@ -1,4 +1,4 @@
-# 🎯 Objectifs du Socle Commun – Ressource pour les éducateurs Bitcoin
+## 🎯 Objectifs du Socle Commun – Ressource pour les éducateurs Bitcoin
 
 Ce dépôt a pour vocation première de constituer **un outil de travail collaboratif à destination des éducateurs**, afin de structurer, préparer et enrichir des parcours de formation autour de Bitcoin.
 
@@ -10,7 +10,7 @@ Il s’agit d’un **cadre commun** permettant de :
 
 ---
 
-## 🌐 Finalité
+### 🌐 Finalité
 
 Créer une **ressource libre et structurée**, conçue **par et pour les éducateurs**, pour :
 - Préparer des sessions de formation cohérentes, progressives et adaptées aux publics visés,
@@ -19,7 +19,7 @@ Créer une **ressource libre et structurée**, conçue **par et pour les éducat
 
 ---
 
-## 👥 Utilisateurs visés
+### 👥 Utilisateurs visés
 
 Ce socle est destiné avant tout à :
 
@@ -32,7 +32,7 @@ Il peut ensuite être utilisé auprès de tous types de publics : néophytes, au
 
 ---
 
-## 🧱 Objectifs pédagogiques transversaux
+### 🧱 Objectifs pédagogiques transversaux
 
 Tous les modules développés visent à outiller l’éducateur pour transmettre :
 
@@ -46,7 +46,7 @@ Tous les modules développés visent à outiller l’éducateur pour transmettre
 
 ---
 
-## 🧰 Format et approche
+### 🧰 Format et approche
 
 Chaque module suit un format commun :
 - 🎯 Objectifs pédagogiques clairs
@@ -57,7 +57,7 @@ Chaque module suit un format commun :
 
 ---
 
-## 🧠 Posture éducative
+### 🧠 Posture éducative
 
 > "Un outil entre pairs, pas un programme imposé"
 
@@ -68,7 +68,7 @@ Chaque module suit un format commun :
 
 ---
 
-## ✨ Philosophie
+### ✨ Philosophie
 
 - 🛠️ **Liberté pédagogique** : aucun dogme, mais des repères clairs.
 - ⚡ **Efficacité** : aller droit au but, proposer des modules actionnables.
@@ -77,7 +77,7 @@ Chaque module suit un format commun :
 
 ---
 
-## 💬 À enrichir ensemble
+### 💬 À enrichir ensemble
 
 Chaque éducateur est invité à :
 - proposer de nouveaux chapitres ou modules,
